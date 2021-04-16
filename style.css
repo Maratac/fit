@@ -461,8 +461,10 @@ p.txt_content.fl_right {
 }
 .img_dis_none_blok, .three {
     display: block;
-    float: left;
-    margin-right: 25px;
+    float: none;
+    margin-right: auto;
+    margin-left: auto;
+
 }
 .second_block {
     margin-bottom: 30px;
